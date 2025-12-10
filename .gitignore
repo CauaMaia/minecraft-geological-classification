@@ -1,0 +1,15 @@
+# Python
+venv_projeto/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS
+.DS_Store
