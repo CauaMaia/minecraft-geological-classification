@@ -119,12 +119,10 @@ This project fulfills all requirements for the Statistical Modeling course:
 - ✅ PyCaret AutoML integration
 - ✅ Professional documentation
 
-## License
-
-This project is licensed under the MIT License. Dataset is CC0 Public Domain.
 
 ## Author
-
+Cauã Maia 
+Antonio Heitor
 Developed as part of the Statistical Modeling course at Centro Universitário do Estado do Pará.
 
 ## References
